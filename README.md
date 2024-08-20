@@ -1,1 +1,1 @@
-This is the Git-essentials repository
+This is my Git-essentials repository
